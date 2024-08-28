@@ -57,10 +57,10 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="./gallery"
+                    href="#project"
                     className="text-gray-600  hover:text-lg  hover:text-gray-200"
                   >
-                    Gallery
+                    Project
                   </a>
                 </li>
               </nav>
