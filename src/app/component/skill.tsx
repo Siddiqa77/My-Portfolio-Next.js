@@ -5,7 +5,7 @@ import { TbBrandTypescript } from "react-icons/tb";
 import { RiNextjsLine, RiTailwindCssLine } from "react-icons/ri";
 import { TbBrandBootstrap } from "react-icons/tb";
 import { FaReact } from "react-icons/fa";
-import { SiCanva } from "react-icons/si";
+import { CiVideoOn } from "react-icons/ci";
 import { SiAdobeillustrator } from "react-icons/si";
 import { SiAdobephotoshop } from "react-icons/si";
 import { AiOutlineCheckSquare } from "react-icons/ai";
@@ -146,7 +146,7 @@ const Skill = () => {
                     <AiOutlineCheckSquare className="text-xl font-bold" />
                   </div>
                   <h2 className="text-gray-100 text-lg title-font font-medium">
-                   Canva  <SiCanva className="inline ml-2 bg-blue-800 font-bold"/>
+                   Video Editing  <CiVideoOn className="inline ml-2 bg-blue-800 font-bold"/>
                   </h2>
                 </div>
                 <div className="flex-grow">
